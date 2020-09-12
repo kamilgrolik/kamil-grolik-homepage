@@ -1,0 +1,41 @@
+{
+  "portfolio": {
+    "music": [
+      {
+        "title": "Something Pink",
+        "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/714732931&color=%231db954&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+        "slug": "something-pink"
+      },
+      {
+        "title": "Something Pink",
+        "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/714732931&color=%231db954&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+        "slug": "something-pink"
+      },
+      {
+        "title": "Something Pink",
+        "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/714732931&color=%231db954&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+        "slug": "something-pink"
+      },
+      {
+        "title": "Something Pink",
+        "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/714732931&color=%231db954&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+        "slug": "something-pink"
+      },
+      {
+        "title": "Something Pink",
+        "url": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/714732931&color=%231db954&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true",
+        "slug": "something-pink"
+      }
+    ],
+    "webPages": [
+      {
+        "name": "LookRoom",
+        "url": "https://lookroom.com"
+      },
+      {
+        "name": "Vocart",
+        "url": "https://vocart.app"
+      }
+    ]
+  }
+}
