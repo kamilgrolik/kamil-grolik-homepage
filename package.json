@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "soundcloud": "^3.3.2",
-    "swiper": "^5.4.5",
+    "swiper": "^6.5.1",
     "vanilla-tilt": "^1.7.0"
   },
   "devDependencies": {
